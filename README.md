@@ -1,0 +1,2 @@
+# dia
+DIAS DA SEMANA DIARIOS
